@@ -1,6 +1,6 @@
 package sample.kotlin.bool
 
-import java.JavaBooleanSample
+import main.java.JavaBooleanSample
 
 /**
  * Created by yy_yank on 2016/01/17.
