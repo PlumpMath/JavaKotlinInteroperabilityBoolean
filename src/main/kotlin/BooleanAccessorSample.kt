@@ -2,6 +2,7 @@ package sample.kotlin.bool
 
 import main.java.JavaBooleanSample
 
+
 /**
  * Created by yy_yank on 2016/01/17.
  */

@@ -1,6 +1,5 @@
 package main.java;
 
-
 import sample.kotlin.bool.KotlinBooleanSample;
 
 /**
